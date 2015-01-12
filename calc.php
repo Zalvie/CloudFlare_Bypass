@@ -1,14 +1,14 @@
 <?php
 
 	$parse = <<<SMD
-  var t,r,a,f, GgydmCQ={"FblpsuEanzgG":!+[]+!![]+!![]+!![]+!![]};
+        var t,r,a,f, dgwycDn={"WM":+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]))};
         t = document.createElement('div');
         t.innerHTML="<a href='/'>x</a>";
         t = t.firstChild.href;r = t.match(/https?:\/\//)[0];
         t = t.substr(r.length); t = t.substr(0,t.length-1);
         a = document.getElementById('jschl-answer');
         f = document.getElementById('challenge-form');
-        ;GgydmCQ.FblpsuEanzgG+=!+[]+!![]+!![]+!![]+!![];GgydmCQ.FblpsuEanzgG-=!+[]+!![]+!![]+!![]+!![];GgydmCQ.FblpsuEanzgG+=!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![];GgydmCQ.FblpsuEanzgG*=+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]));GgydmCQ.FblpsuEanzgG-=+((!+[]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]));GgydmCQ.FblpsuEanzgG-=+((!+[]+!![]+!![]+[])+(+[]));GgydmCQ.FblpsuEanzgG-=+((!+[]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]));GgydmCQ.FblpsuEanzgG*=+((!+[]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]));GgydmCQ.FblpsuEanzgG+=+((!+[]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]));
+        ;dgwycDn.WM*=+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]));dgwycDn.WM*=!+[]+!![]+!![];dgwycDn.WM-=+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]));dgwycDn.WM-=+((!+[]+!![]+[])+(!+[]+!![]+!![]+!![]));dgwycDn.WM-=+((!+[]+!![]+!![]+[])+(!+[]+!![]+!![]));dgwycDn.WM-=+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]));dgwycDn.WM+=+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]));dgwycDn.WM-=+((!+[]+!![]+!![]+!![]+[])+(!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]));a.value = parseInt(dgwycDn.WM, 10) + t.length;
 SMD;
 
 	$cat = ['+[]',
