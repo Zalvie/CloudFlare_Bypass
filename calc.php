@@ -44,5 +44,5 @@ SMD;
 		if(!empty($_[1]) && in_array($_[0], ['-', '+', '*', '/', '']))
 			eval(sprintf('$i %s= %d;', $_[0], calc($_[1])));
 	}
-	
-  echo $i;
+
+	var_dump($i);
